@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/aqaranewbiz-aqaranewbiz-mysql-server-badge.png)](https://mseep.ai/app/aqaranewbiz-aqaranewbiz-mysql-server)
+
 [![smithery badge](https://smithery.ai/badge/@aqaranewbiz/mysql-server)](https://smithery.ai/server/@aqaranewbiz/mysql-server)
 # MySQL MCP Server (Node.js)
 
